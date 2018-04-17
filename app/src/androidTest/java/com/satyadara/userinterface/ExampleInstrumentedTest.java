@@ -1,4 +1,4 @@
-package com.satyadara.dsc.modul01;
+package com.satyadara.userinterface;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -17,10 +17,10 @@ import static org.junit.Assert.*;
 @RunWith(AndroidJUnit4.class)
 public class ExampleInstrumentedTest {
     @Test
-    public void useAppContext() {
+    public void useAppContext() throws Exception {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.satyadara.dsc.modul01", appContext.getPackageName());
+        assertEquals("com.satyadara.userinterface", appContext.getPackageName());
     }
 }

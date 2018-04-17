@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">Basic Component</string>
+    <string name="app_name">DSC User Interface</string>
+    <string name="input">Input</string>
+    <string name="clear">CLEAR</string>
+    <string name="submit">SUBMIT</string>
+    <string name="title">Form</string>
+    <string name="hint_value">What will you do ? (Default)</string>
+    <string name="hint_value_material">What will you do ? (Material)</string>
+    <string name="option_b">Option B</string>
+    <string name="option_a">Option A</string>
+
+    <string-array name="spinner_array">
+        <item>Developer Student Clubs</item>
+        <item>Satya Syahputra</item>
+        <item>Megan Ayucedar</item>
+        <item>Dege</item>
+        <item>Rio Gunawan</item>
+        <item>Miruku</item>
+    </string-array>
 </resources>

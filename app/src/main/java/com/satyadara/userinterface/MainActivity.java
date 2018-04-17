@@ -1,4 +1,4 @@
-package com.satyadara.dsc.modul01;
+package com.satyadara.userinterface;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
